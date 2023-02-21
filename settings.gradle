@@ -14,5 +14,5 @@ dependencyResolutionManagement {
 }
 rootProject.name = "FoodRecipe"
 include ':app'
-include ':domian'
 include ':data'
+include ':domain'
